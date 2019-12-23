@@ -1,10 +1,9 @@
 ---
 name: Bug
 about: Bug Template
-title: 'Bug: '
-labels: Bug
+title: "Bug: "
+labels: "Bug, size: S"
 assignees: bartr
-projects: Helium
 
 ---
 
