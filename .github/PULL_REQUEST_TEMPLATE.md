@@ -1,8 +1,8 @@
 ---
 name: Pull Request
 about: PR Template
-title: ''
-labels: Helium Release
+title: "PR: "
+labels: Release
 assignees: ''
 
 ---
