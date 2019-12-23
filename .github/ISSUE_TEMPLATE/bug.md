@@ -2,7 +2,7 @@
 name: Bug
 about: Bug Template
 title: ''
-labels: Bug 'size: S'
+labels: Bug
 assignees: bartr
 
 ---
