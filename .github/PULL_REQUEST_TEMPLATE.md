@@ -1,13 +1,14 @@
 ## Type of PR
 
-- documentation changes
-- code changes
-- test changes
+- [ ] Documentation changes
+- [ ] Code changes
+- [ ] Test changes
 
 ## Purpose of PR
 
 ## Review notes
 
-## Issues Closed
+## Issues Closed or Referenced
 
-- closes #<issue number> (this will automatically close the issue when the PR closes
+- Closes #<issue number> (this will automatically close the issue when the PR closes)
+- References #<issue number> (this references the issue but does not close with PR)
