@@ -2,7 +2,7 @@
 name: Issue
 about: General issue template
 title: ''
-labels: Helium
+labels: ''
 assignees: ''
 
 ---
