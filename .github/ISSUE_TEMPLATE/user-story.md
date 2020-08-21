@@ -3,7 +3,7 @@ name: User Story
 about: Describes type of user, what they want, and why; valuable increment of functionality,
   testable by users.
 title: ''
-labels: ''
+labels: User Story
 assignees: ''
 
 ---
@@ -23,12 +23,10 @@ assignees: ''
 
 ## Acceptance Criteria
 
-Reference: [Definition of Done](../../docs/EngineeringPractices.md)
-
 - [ ] Should "testable condition that should be satisfied"
 - [ ] Should "testable condition that should be satisfied"
 
-Also, here are a few points that need to be addressed:
+## Constraints
 
 - Constraint 1
 - Constraint 2
@@ -39,9 +37,4 @@ Also, here are a few points that need to be addressed:
 - Technical Design Document
 - Mockups
 
-## Tasks
-
-**_Assignee should break down work into tasks here_**
-
-- [ ] Task 1
-- [ ] Task 2
+Reference: [Definition of Done](../../docs/EngineeringPractices.md)
