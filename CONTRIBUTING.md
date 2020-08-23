@@ -75,7 +75,7 @@ Before you submit your Pull Request (PR) consider the following guidelines:
 
     ```shell
 
-    git rebase master -i
+    git rebase main -i
     git push -f
 
     ```

@@ -30,8 +30,8 @@ Add user story or References #issue
 
 - [ ] Code Review completed
 - [ ] All existing automated tests (unit and e2e) pass successfully, new tests added as needed
-- [ ] Code changes checked into master
-- [ ] Sync github actions from master template
+- [ ] Code changes checked into main
+- [ ] Sync github actions from main template
 - [ ] Existing documentation is updated (readme, .md's)
 - [ ] New documentation needed to support the change is created
 - [ ] CI completes successfully
