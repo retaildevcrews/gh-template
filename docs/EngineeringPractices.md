@@ -13,7 +13,7 @@
 - New changes in smoke test for 48hrs (ongoing)
 - Create task for required artifacts
 
-Engineering Playbook [Definition of Done](https://github.com/microsoft/code-with-engineering-playbook/blob/master/team-agreements/definition-of-done/readme.md)
+Engineering Playbook [Definition of Done](https://github.com/microsoft/code-with-engineering-playbook/tree/master/agile-development/team-agreements/definition-of-done/readme.md)
 
 ## Markdown (md files)
 
@@ -47,12 +47,13 @@ Engineering Playbook [Definition of Done](https://github.com/microsoft/code-with
 - Add all relevant tags (language, enhancement, bug, design review, etc)
 - Do not add Size, Priority, Milestone, or Assignee
 - All issues will be triaged at the end of the Standup call
+- Add an "undo issue" for any temporary changes that need to be removed in the future
 
 ### Backlog
 
 > Once issue has been triaged, move into the Backlog
 
-- Once issue is triaged, add the appropriate Priority Tag and add net-new tags
+- Once issue is triaged, add the appropriate priority label and other tags as appropriate
 - Do not add size, milestone or assignee
 
 ### Sprint Backlog
