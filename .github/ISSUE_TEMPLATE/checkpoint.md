@@ -86,4 +86,5 @@ _If this is the final checkpoint for an engagement, please also include a link t
 
 ### Tasks
 
-- [ ] Upload checkpoint review to Artifact Hub
+- [ ] Upload checkpoint review to Artifact Hub 24hrs in advance
+- [ ] Tech Lead to complete Engineering Assessment via Snowball
