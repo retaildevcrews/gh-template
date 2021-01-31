@@ -1,3 +1,13 @@
+---
+name: Sprint0 Checklist
+about: Pre-Sprint planning checklist
+title: ''
+labels: Process, Pri1
+assignees: ''
+
+---
+
+
 # Sprint0 Checklist
 
 ## Tooling
@@ -7,6 +17,7 @@
 - [ ] Collaboration and Communication Tooling  (Teams)
 - [ ] Share user lists for Azure AD 
 - [ ] Share user lists for Source Control
+- [ ] Ensure Resource Groups are locked
 
 ## Planning
 - [ ] Define success criteria 
