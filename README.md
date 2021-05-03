@@ -14,8 +14,6 @@ Add project overview ...
 - Team [Engineering Practices](docs/EngineeringPractices.md)
 - CSE Engineering Fundamentals [Playbook](https://github.com/Microsoft/code-with-engineering-playbook)
 
-## Support
-
 ## How to file issues and get help  
 
 This project uses GitHub Issues to track bugs and feature requests. Please search the existing issues before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new issue.
