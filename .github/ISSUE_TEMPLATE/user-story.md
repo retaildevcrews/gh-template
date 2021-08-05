@@ -32,9 +32,15 @@ Where:
 
 ## Acceptance Criteria
 
--
--
--
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] Resolve linter errors
+- [ ] Remove to-do, dead code, & unnecessary comments
+- [ ] Existing documentation is updated (readme, .md's)
+- [ ] New documentation needed to support the change is created
+- [ ] Validation test run if applicable
 
 ## Constraints
 - N/A 
