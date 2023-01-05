@@ -1,7 +1,5 @@
 ## Teams Calendar Guidance
-In an effort to utilize Teams, the Calendar feature could help our crews standardize how we setup cadences for scrum ceremonies and creating events/vacation invites for visibility.  Instead of having to create a calendar invite and remembering everyone that you need to forward it to, the Teams Calendar function automatically creates an invite that includes all of the people in the “Austin RDC” Teams channel. We have identified two areas to starting using this feature: 
-
-Scrum Ceremonies - Scrum ceremonies will be sent out through Teams (Austin RDC) following the name convention of [Project Name] - [Ceremony] (I.e. WCNP - Standup+). This will provide a central place to look for all ceremonies where Austin RDC members can participate and/or listen in. 
+In an effort to utilize Teams, the Calendar feature could help our crews standardize how we setup cadences for scrum ceremonies and creating events/vacation invites for visibility.  Instead of having to create a calendar invite and remembering everyone that you need to forward it to, the Teams Calendar function automatically creates an invite that includes all of the people in the “Austin RDC” Teams channel. Here is how we will start using this feature:
 
 Vacation Days/Time Off - PTO and time off will be sent through Teams calendar following the naming convention of [Individual Name] - [OOF, Personal Appt] (i.e. Paula - OOF). This will alleviate the task of manually sending invites and not forgetting anyone. 
 
