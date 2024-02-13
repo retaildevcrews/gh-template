@@ -50,8 +50,29 @@ Our crews are distributed across timezones and across the world. Where possible,
   | Project Documentation | GitHub Repo | Working Agreement, code of conduct, high-level overview |
   | Architecture / Designs | GitHub Repo| Technical Design documents |
 
-## How we plan together
+### Pairing
 
+Pairing work is recommended to support knowledge sharing between the team members. Work items have a dedicated field *Pairing with* so that a second team members is explicitly assigned. Each team member should look for pairing opportunities before picking up a new work item. Commits should be made by the people that are assigned to the story. Other team members are encouraged to provide feedback using PR comments.
+
+### Sharing
+
+Sharing is caring. We will record demos to share early and share often. We will share as we go and not wait until the end of the project.
+
+### Ceremonies
+
+- Our sprints will be one week and run from Wednesday - Tuesday with Review, Retrospective, and Planning occurring back-to-back.
+- We will use an assigned Scrum Master versus rotating the role among the team.
+
+|  | When | Length | Participants | Purpose |
+|------|------|--------|--------------|---------|
+| **Standup** | Monday, Wednesday, Thursday  @ 1PM CST | 10 minutes | Development Team, Scrum Master, Product Owner | Those with committed work answer: What did I do yesterday? What will I do today? Is there anything in my way? |
+| **Triage** | Monday, Wednesday, Thursday  @ 1:10PM CST | 10 minutes | Development Team, Scrum Master, Product Owner| Review an net-new issues for prioritization and discussion |
+| **Review** | Tuesday @ 4:00PM CST | 30 minutes | Development Team, Scrum Master, Product Owner | Demonstrate the work we did this week. Show and tell time. |
+| **Retrospective** | Tuesday @ 4:30PM CST | 30 minutes | Development Team, Scrum Master, Product Owner | Reflect as a team on how we're doing -- what's working well for us, and what could we do better? |
+| **Planning** | Wednesday @ 5:00PM | 30 minutes | Scrum Master, Product Owner, Development Team | Commit to work for the next sprint. |
+
+
+## How we plan together
 
 ### Backlogs and (Dash)boards
 
@@ -73,24 +94,5 @@ Our crews are distributed across timezones and across the world. Where possible,
 - We will estimate User Stories with size tagging to help gauge how much work we commit to within a sprint.
 - We will use T-shirts sizing for our estimation -- with XS <1 day, Small is 1-2 days, Medium is 2-3 days, Large is 4-5 days, and XL > week, needs decomposed.
 
-### Ceremonies
-
-- Our sprints will be one week and run from Wednesday - Tuesday with Review, Retrospective, and Planning occurring back-to-back.
-- We will use an assigned Scrum Master versus rotating the role among the team.
-
-|  | When | Length | Participants | Purpose |
-|------|------|--------|--------------|---------|
-| **Standup** | Monday, Wednesday, Thursday  @ 1PM CST | 10 minutes | Development Team, Scrum Master, Product Owner | Those with committed work answer: What did I do yesterday? What will I do today? Is there anything in my way? |
-| **Triage** | Monday, Wednesday, Thursday  @ 1:10PM CST | 10 minutes | Development Team, Scrum Master, Product Owner| Review an net-new issues for prioritization and discussion |
-| **Review** | Tuesday @ 4:00PM CST | 30 minutes | Development Team, Scrum Master, Product Owner | Demonstrate the work we did this week. Show and tell time. |
-| **Retrospective** | Tuesday @ 4:30PM CST | 30 minutes | Development Team, Scrum Master, Product Owner | Reflect as a team on how we're doing -- what's working well for us, and what could we do better? |
-| **Planning** | Wednesday @ 5:00PM | 30 minutes | Scrum Master, Product Owner, Development Team | Commit to work for the next sprint. |
 
 
-### Pairing
-
-Pairing work is recommended to support knowledge sharing between the team members. Work items have a dedicated field *Pairing with* so that a second team members is explicitly assigned. Each team member should look for pairing opportunities before picking up a new work item. Commits should be made by the people that are assigned to the story. Other team members are encouraged to provide feedback using PR comments.
-
-### Sharing
-
-Sharing is caring. We will record demos to share early and share often. We will share as we go and not wait until the end of the project.
