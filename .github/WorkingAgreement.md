@@ -25,6 +25,8 @@ We pledge to follow the [Microsoft Open Source Code of Conduct](https://opensour
 
 Teams and feature crews should feel free to be flexible based on your life situation - especially during COVID. Many of us work split schedules to accomodate our personal lives and health. You should feel empowered to work "your" schedule. 
 
+Encourage diverse modes of communication, such as speech or text. Allow for catching up on missed meetings through recordings or notes.
+
 ### Model, Coach, Care
 
 We should personally practice a growth mindset with three skills in particular: active role modeling, coaching others to be active role models, and showing care about team members and their personal growth.
